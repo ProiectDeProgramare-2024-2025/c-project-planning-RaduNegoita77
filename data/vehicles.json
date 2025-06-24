@@ -1,0 +1,32 @@
+[
+    {
+        "brand": "Tesla",
+        "chassis": "TES789",
+        "model": "Model3",
+        "price": 52000.0
+    },
+    {
+        "brand": "BMW",
+        "chassis": "CH1234",
+        "model": "X5",
+        "price": 45000.0
+    },
+    {
+        "brand": "BMW",
+        "chassis": "CH345",
+        "model": "X6",
+        "price": 75000.0
+    },
+    {
+        "brand": "Toyota",
+        "chassis": "TOY765",
+        "model": "Rav4",
+        "price": 37000.0
+    },
+    {
+        "brand": "Volvo",
+        "chassis": "VOL654",
+        "model": "XC60",
+        "price": 59000.0
+    }
+]
